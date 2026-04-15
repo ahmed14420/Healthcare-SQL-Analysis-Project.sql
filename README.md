@@ -86,7 +86,7 @@ The Entity Relationship Diagram (ERD) shows how the tables are connected.
 ## 📄 Project Files
 
 - <a href="https://github.com/ahmed14420/Healthcare-SQL-Analysis-Project.sql/blob/main/healthcare_dataset.csv"> → Dataset</a>  
-- <a href="[https://github.com/ahmed14420/Healthcare-SQL-Analysis-Project.sql/blob/main/healthcare_dataset.csv](https://github.com/ahmed14420/Healthcare-SQL-Analysis-Project.sql/blob/main/Healthcare%20SQL%20Analysis%20Project.sql)"> → Database schema</a>   
+- <a href="[[https://github.com/ahmed14420/Healthcare-SQL-Analysis-Project.sql/blob/main/healthcare_dataset.csv](https://github.com/ahmed14420/Healthcare-SQL-Analysis-Project.sql/blob/main/Healthcare%20SQL%20Analysis%20Project.sql)](https://github.com/ahmed14420/Healthcare-SQL-Analysis-Project.sql/blob/main/Healthcare%20SQL%20Analysis%20Project.sql)"> → Database schema</a>   
 - <a href="[https://github.com/ahmed14420/Healthcare-SQL-Analysis-Project.sql/blob/main/healthcare_dataset.csv](https://github.com/ahmed14420/Healthcare-SQL-Analysis-Project.sql/blob/main/Healthcare%20SQL%20Analysis%20Project.pdf)"> → Queries + Outputs documentation</a>   
 - <a href= "[images/erd.png](https://github.com/ahmed14420/Healthcare-SQL-Analysis-Project.sql/blob/main/Erd.PNG)"> → Database ERD</a>  
 
