@@ -11,8 +11,8 @@ It demonstrates solving real-world analytical questions using SQL techniques suc
 
 The dataset represents a healthcare system and is provided in:
 
-- `data.csv` → Contains the raw healthcare data  
-- `schema.sql` → Contains the database structure (tables & relationships only)
+- `healthcare_dataset.csv` → Contains the raw healthcare data  
+- `Healthcare SQL Analysis Project.sql.sql` → Contains the database structure (tables & relationships only)
 
 The system includes the following entities:
 
@@ -107,8 +107,8 @@ The Entity Relationship Diagram (ERD) shows how the tables are connected.
 ## 🚀 How to Use
 
 1. Open SQL Server Management Studio (SSMS)  
-2. Run `schema.sql` to create the database structure  
-3. Import or load `data.csv` into the tables  
+2. Run `Healthcare SQL Analysis Project.sql` to create the database structure  
+3. Import or load `healthcare_dataset.csv` into the tables  
 4. Execute SQL queries  
 5. Open `Healthcare_SQL_Project.pdf` to view outputs  
 
