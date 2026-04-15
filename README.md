@@ -9,10 +9,12 @@ It demonstrates solving real-world analytical questions using SQL techniques suc
 
 ## 🗂 Dataset Description
 
-The dataset represents a healthcare system and is provided in:
+his project contains the following files:
 
-- `healthcare_dataset.csv` → Contains the raw healthcare data  
-- `Healthcare SQL Analysis Project.sql.sql` → Contains the database structure (tables & relationships only)
+- `healthcare_dataset.csv` → Raw dataset used for the analysis  
+- `Healthcare SQL Analysis Project.sql` → SQL script (schema + queries)  
+- `Healthcare SQL Analysis Project.pdf` → Full documentation of queries and outputs  
+- `Erd.PNG` → Entity Relationship Diagram (ERD) showing database structure  
 
 The system includes the following entities:
 
